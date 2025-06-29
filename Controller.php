@@ -1,6 +1,6 @@
 <?php
-$nama = "Budiman";
-$usia = 30;
+$nama = "Fahman Zaidan";
+$usia = 17;
 
 echo $nama, $usia;
 ?>
